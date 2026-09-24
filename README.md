@@ -45,6 +45,8 @@ I build data pipelines people can trust: validation rules that catch bad data ea
 
 **📊 Data:** SQL, Python (pandas, NumPy), Informatica, Alation, Dataiku, Power BI, Spark, Hive, MongoDB
 
+**🛡️ Data Quality & Data Governance:** validation rules, data profiling, lineage, bias metrics and compliance workflows (Dataiku, Informatica, Alation, Great Expectations, pandera)
+
 **🧠 ML & AI:** scikit-learn, PyTorch, TensorFlow, LLMs, RAG, BERTopic, LangGraph, DeepEval
 
 **☁️ Cloud & apps:** AWS (S3, Bedrock, OpenSearch, Amplify, CloudWatch), Google Cloud, Flask, FastAPI, Dash
